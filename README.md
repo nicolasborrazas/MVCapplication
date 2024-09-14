@@ -1,5 +1,3 @@
-Aquí tienes un **README.md** completo que explica cómo construir esta aplicación MVC desde cero, incluyendo todas las modificaciones y archivos que hemos creado. Lo puedes copiar y pegar en tu proyecto de GitHub.
-
 ### **README.md**: 
 
 ```md
