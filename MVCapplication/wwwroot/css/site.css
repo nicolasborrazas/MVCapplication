@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, nav, article, section, aside, footer {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+}
+
+header, footer {
+    background-color: #f2f2f2;
+}
+
+nav {
+    background-color: #ddd;
+}
+
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        nav ul li {
+            display: inline;
+            margin-right: 15px;
+        }
+
+aside {
+    float: right;
+    width: 25%;
+}
+
+article {
+    float: left;
+    width: 70%;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
